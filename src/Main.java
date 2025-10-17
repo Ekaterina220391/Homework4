@@ -11,7 +11,6 @@ public class Main {
         if (clientOS == 0) {
             System.out.println("Установите версию приложения для Android по ссылке");
         }
-
         System.out.println("Задание 2");
 
 
